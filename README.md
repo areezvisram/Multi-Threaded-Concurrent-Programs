@@ -10,10 +10,10 @@ Concurrency is an essential aspect of modern software development, enabling prog
 
 The repository is organized into four main folders, each focusing on a different programming language:
 
-1. `go/`: Contains Go language concurrent programs in Jupyter Notebooks.
-2. `c/`: Holds C language concurrent programs in Jupyter Notebooks.
-3. `python/`: Includes Python language concurrent programs in Jupyter Notebooks.
-4. `java/`: Consists of Java language concurrent programs in Jupyter Notebooks.
+1. `c/`: Holds C language concurrent programs in Jupyter Notebooks.
+2. `go/`: Contains Go language concurrent programs in Jupyter Notebooks.
+3. `java/`: Consists of Java language concurrent programs in Jupyter Notebooks.
+4. `python/`: Includes Python language concurrent programs in Jupyter Notebooks.
 
 ## Usage
 
